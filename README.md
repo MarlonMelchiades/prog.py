@@ -1,2 +1,2 @@
-# Knowing the python language!
-My first project in python made for the computer fundamentals class of the computer science course!
+# Conhecendo a linguagem python!
+Meu primeiro projeto em python feito para a aula de fundamentos da computação do curso de ciência da computação!
